@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+header{
+    background: #F2F5F4;
+    padding: 40px;
+}
+.container{
+    width: 1400px;
+    overflow: hidden;
+    margin: 0 auto;
+    
+}
+.clear{
+    clear: both;
+}
+header .logo{
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    float: left;
+    background: url('../img/logo.jpeg') no-repeat center 40%;
+
+}
+header nav ul{
+    width: 450px;
+    margin: 0 auto;
+    float: right;
+    
+}
+header nav ul li{
+    float: left;
+    padding: 10px;
+    
+}
+header nav ul li a{
+    color:burlywood;
+}
+header nav ul li a:hover{
+    color:lightcoral;
+}
+.soilder{
+    background: url('../img/1658352.jpg') no-repeat center 50%;
+    height: 835px;
+    background-size: cover;
+}
+.soilder p.text{
+    position: absolute;
+    top:20%;
+    left: 10%;
+    font-size: 55px;
+    color:darkolivegreen;
+    font-family:'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+.hakkimizda{
+    height:600px; 
+    background-color:#ffffff;
+    
+}
+.hakkimizda p{
+    font-family:'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 600;
+    font-size: 60px;
+    text-align: center;
+}
+.takim{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    top:20%;
+    left: 10%;
+}
+.dairesel{
+    margin: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+.dairesel img {
+
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+  
+  }

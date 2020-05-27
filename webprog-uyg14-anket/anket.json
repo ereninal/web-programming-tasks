@@ -1,0 +1,27 @@
+[
+	{
+      "id": 1,
+      "ad": "Galatasaray",
+      "oy":5
+    },
+    {
+      "id": 2,
+      "ad": "Fenerbahçe",
+      "oy":	2
+    },
+	{
+      "id": 3,
+      "ad": "Beşiktaş",
+      "oy": 4
+    },
+    {
+      "id": 4,
+      "ad": "Trabzonspor",
+      "oy": 1
+    },
+	{
+      "id": 5,
+      "ad": "Başakşehir SK",
+      "oy": 3
+    }
+]
